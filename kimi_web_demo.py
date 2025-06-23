@@ -194,7 +194,7 @@ class KimiWebChat:
         return "✅ Parameters updated successfully!"
 
 
-def create_demo():
+def create_demo(args):
     """Create Gradio interface"""
 
     # Initialize chat handler
