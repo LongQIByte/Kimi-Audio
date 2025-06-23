@@ -153,6 +153,18 @@ print("Kimi-Audio inference examples complete.")
 
 ```
 
+### Gradio Web Demo
+
+![alt text](assets/kimia_gradio.png)
+
+```bash
+python kimi_web_demo.py
+```
+Then you can access the demo at `http://localhost:7860`.
+
+
+
+
 ## Evaluation
 
 Kimi-Audio achieves state-of-the-art (SOTA) performance across a wide range of audio benchmarks. 
